@@ -1,0 +1,14 @@
+---
+#System Settings
+php_modules: [ 'php-curl', 'php-gd', 'php-mbstring', 'php-xml', 'php-xmlrpc', 'php-soap', 'php-intl', 'php-zip' ]
+
+#MySQL Settings
+mysql_root_password: "Stichting2020!"
+mysql_db: "wordpress"
+mysql_user: "sammy"
+mysql_password: "Stichting2020!"
+
+#HTTP Settings
+http_host: "devonterfdgoed.conjartsdatacenter.it"
+http_conf: "devonterfdgoed.conjartsdatacenter.it.conf"
+http_port: "80"
