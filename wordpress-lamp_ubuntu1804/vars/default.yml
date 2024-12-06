@@ -9,6 +9,6 @@ mysql_user: "sammy"
 mysql_password: "Stichting2020!"
 
 #HTTP Settings
-http_host: "devonterfdgoed.conjartsdatacenter.it"
-http_conf: "devonterfdgoed.conjartsdatacenter.it.conf"
+http_host: "onterfdgoed.nl"
+http_conf: "onterfdgoed.nl.conf"
 http_port: "80"
